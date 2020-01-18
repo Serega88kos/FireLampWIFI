@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">Fire Lamp WiFi</string>
+    <string name="Bimage">image</string>
+    <string name="Sinhro">синхронизация</string>
+    <string name="loadSD">Загрузить настройки с SD</string>
+    <string name="WriteSD">Записать настройки на SD</string>
+    <string name="SCALE">МАСШТАБ</string>
+    <string name="SPEED">СКОРОСТЬ</string>
+    <string name="BRIGHT">ЯРКОСТЬ</string>
+    <string name="LOOP">ЦИКЛ</string>
+    <string name="ON">ВКЛ</string>
+    <string name="on">on</string>
+    <string name="pn">Понедельник</string>
+    <string name="vt">Вторник</string>
+    <string name="sr">Среда</string>
+    <string name="cht">Четверг</string>
+    <string name="pt">Пятница</string>
+    <string name="sb">Суббота</string>
+    <string name="мы">Воскресенье</string>
+    <string name="BD">БУДИЛЬНИКИ</string>
+    <string name="hint">00:00</string>
+    <string name="al">Будильники</string>
+    <string name="_00_00">00:00</string>
+    <string name="back">Назад</string>
+    <string name="SaveExit">Сохранить и выйти</string>
+    <string name="_8888">8888</string>
+    <string name="search">Найти</string>
+    <string name="Back">Назад</string>
+    <string name="_192_168_1_100">192.168.1.100</string>
+    <string name="favs">Избранное</string>
+    <string name="timer">Таймер</string>
+    <string name="connect">Соединение</string>
+    <string name="Connect">Сохранить и закрыть</string>
+    <string name="ChangeConnect">Проверить соединение</string>
+    <string name="save_sost">Запомнить состояние</string>
+    <string name="interval">Интервал</string>
+    <string name="rasbros">Случайный разброс</string>
+    <string name="_1m">1 минута</string>
+    <string name="_2m">2 минуты</string>
+    <string name="_3m">3 минуты</string>
+    <string name="_5m">5 минут</string>
+    <string name="_10m">10 минут</string>
+    <string name="_15m">15 минут</string>
+    <string name="_20m">20 минут</string>
+    <string name="_30m">30 минут</string>
+    <string name="_60m">60 минут</string>
+    <string name="_0">0 минут</string>
+    <string name="_1">1 минута</string>
+    <string name="_2">2 минуты</string>
+    <string name="_3">3 минуты</string>
+    <string name="_5">5 минут</string>
+    <string name="_10">10 минут</string>
+    <string name="_15">15 минут</string>
+    <string name="_20">20 минут</string>
+    <string name="_30">30 минут</string>
+    <string name="confeti">Конфети</string>
+    <string name="fire">Огонь</string>
+    <string name="white_fire">Белый огонь</string>
+    <string name="rainbow_vert">Радуга вертикальная</string>
+    <string name="rainbow_gor">Радуга горизонтальная</string>
+    <string name="rainbiw_diag">Радуга диагональная</string>
+    <string name="next_color">Смена цвета</string>
+    <string name="_3dsky">Облака 3D</string>
+    <string name="_45">45 минут</string>
+    <string name="_1mm">1 минуту</string>
+    <string name="nonstop">Не выключать</string>
+    <string name="favo">ИЗБРАННОЕ</string>
+    <string name="tim">ТАЙМЕР</string>
+    <string name="otkl">Отключение через</string>
+
+    <string name="SelectAll">ВЫБРАТЬ ВСЕ</string>
+    <string name="ip">Введите IP адрес лампы</string>
+    <string name="port">Введите PORT лампы</string>
+
+    <string-array name="spinnerMode">
+        <item>Конфети</item>                    <!-- 0 -->
+        <item>Огонь</item>                      <!-- 1 -->
+        <item>Белый огонь</item>                <!-- 2 -->
+        <item>Радуга вертикальная</item>        <!-- 3 -->
+        <item>Радуга горизонтальная</item>      <!-- 4 -->
+        <item>Радуга диагональная</item>        <!-- 5 -->
+        <item>Смена цвета</item>                <!-- 6 -->
+        <item>Безумие 3D</item>                 <!-- 7 -->
+        <item>Облака 3D</item>                  <!-- 8 -->
+        <item>Лава 3D</item>                    <!-- 9 -->
+        <item>Плазма 3D</item>                  <!-- 10 -->
+        <item>Радуга 3D</item>                  <!-- 11 -->
+        <item>Павлин 3D</item>                  <!-- 12 -->
+        <item>Зебра 3D</item>                   <!-- 13 -->
+        <item>Лес 3D</item>                     <!-- 14 -->
+        <item>Океан 3D</item>                   <!-- 15 -->
+        <item>Цвет</item>                       <!-- 16 -->
+        <item>Снегопад</item>                   <!-- 17 -->
+        <item>Метель</item>                     <!-- 18 -->
+        <item>Звездопад</item>                  <!-- 19 -->
+        <item>Матрица</item>                    <!-- 20 -->
+        <item>Светлячки</item>                  <!-- 21 -->
+        <item>Светлячки со шлейфом</item>       <!-- 22 -->
+        <item>Пейнтбол</item>                   <!-- 23 -->
+        <item>Блуждающий кубик</item>           <!-- 24 -->
+        <item>Белый свет</item>                 <!-- 25 -->
+    </string-array>
+
+    <string-array name="spinnerAlarm">
+        <item>Время до "рассвета"</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+        <item>40 минут</item>
+        <item>50 минут</item>
+        <item>60 минут</item>
+    </string-array>
+</resources>

@@ -1,0 +1,21 @@
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/sendgray"
+        android:state_pressed="true" />
+    <item
+        android:drawable="@drawable/sendgray"
+        android:state_focused="true" />
+    <item
+        android:drawable="@drawable/sendgreen"
+        android:state_selected="true" />
+    <item
+        android:drawable="@drawable/sendgreen"
+        android:state_active="true" />
+    <item
+        android:drawable="@drawable/sendred"
+        android:state_selected="false" />
+    <item
+        android:drawable="@drawable/sendred" />
+
+</selector>
